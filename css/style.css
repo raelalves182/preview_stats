@@ -129,6 +129,8 @@ body {
 @media (min-width: 768px) and (max-width: 1023px) {
   .content {
     height: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
   }
   .content .card {
     -webkit-box-orient: vertical;
@@ -152,6 +154,8 @@ body {
 @media screen and (max-width: 767px) {
   .content {
     height: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
   }
   .content .card {
     -webkit-box-orient: vertical;
